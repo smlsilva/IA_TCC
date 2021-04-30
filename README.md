@@ -16,6 +16,10 @@
    <ul>
       <li><a href='https://pypi.org/project/face-recognition/'>Face-recognition</a></li>
       <li><a href='https://www.nationalgeographicbrasil.com/ciencia/2020/09/reconhecimento-facial-com-mascara-ja-e-uma-realidade-gostemos-ou-nao'>National Geographic Brasil</a></li>
+      <li><a href="https://pt.wikipedia.org/wiki/Aprendizagem_profunda">Aprendizagem Profunda</a></li>
+      <li><a href="https://srnghn.medium.com/deep-learning-overview-of-neurons-and-activation-functions-1d98286cf1e4">Deep Learning</a></li>
+      <li><a href="https://pt.wikipedia.org/wiki/Vis%C3%A3o_computacional">Visão Computacional</a></li>
+      <li><a href="https://pt.wikipedia.org/wiki/Processamento_de_imagem">Processamento de Imagens</a></li>
    </ul>
 
 # 🔖 STATUS DO PROJETO
