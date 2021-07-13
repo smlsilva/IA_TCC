@@ -35,6 +35,9 @@
    muito mais eficiente em suas predições. Com algumas modificações
    e alimentando a I.A com mais imagens, ela irá conseguir fazer 
    predições mais precisas.</p>
+   
+   ![atualizacao](https://user-images.githubusercontent.com/47987232/125471528-c04155e5-aae0-42d4-9044-a11f1d344d11.png)
+
 
 
 # CONTRIBUIDORES
