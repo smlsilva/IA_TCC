@@ -1,4 +1,4 @@
-# 📖 INTRODUÇÃO
+<h1> 📖 INTRODUÇÃO </h1>
  <b>Repositório para o desenvolvimento do TCC de inteligência artificial para reconhecimento de pessoas com máscara/sem máscara.</b>
 
 # 📑 OBJETIVO
@@ -25,6 +25,17 @@
    - [ ] Finalizado
    - [X] Em Andamento
    - [ ] Interrompido
+
+
+# Atualizações
+
+   <p>13/07/2021</p>
+   <p>Foram modificados alguns métodos do modelo de treinamento,
+   temos que alimentar com mais imagens para deixar a rede neural
+   muito mais eficiente em suas predições. Com algumas modificações
+   e alimentando a I.A com mais imagens, ela irá conseguir fazer 
+   predições mais precisas.</p>
+
 
 # CONTRIBUIDORES
    <a href="https://github.com/smlsilva" target="_blank">![samuel (1)](https://user-images.githubusercontent.com/47987232/114802351-f14bab00-9d73-11eb-8349-3bec875b6a88.jpeg)</a>
