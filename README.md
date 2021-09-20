@@ -27,7 +27,26 @@
    - [ ] Interrompido
 
 
-# Atualizações
+# DOWNLOAD E UTILIZAÇÃO DO ALGORITMO
+   
+   CLONAR O REPOSITÓRIO
+   
+       git clone https://github.com/smlsilva/IA_TCC
+   
+   VERIFICAR SE CONTÉM TODAS AS BIBLIOTECAS INSTALADAS
+       
+       pip install opencv-python
+       pip install scikit-learn
+       pip install numpy
+       pip check pandas
+       
+   EXECUTAR O ARQUIVO (cam.py)
+   
+       python3 cam.py
+   
+   E AGORA É SÓ SE DIVERTIR!
+
+# 📋 Atualizações
 
    <p>13/07/2021</p>
    <p>Foram modificados alguns métodos do modelo de treinamento,
@@ -38,7 +57,13 @@
    
    ![atualizacao](https://user-images.githubusercontent.com/47987232/125471528-c04155e5-aae0-42d4-9044-a11f1d344d11.png)
 
+   
+   <p>20/09/2021<p>
+   <p>Finalizando a primeira versão do algoritmo</p>
+   
+   ![Screenshot from 2021-09-20 11-20-21](https://user-images.githubusercontent.com/47987232/134069633-58d820d2-fa18-4caa-acd0-2369dc7fa5bf.png)
+   ![Screenshot from 2021-09-20 11-19-51](https://user-images.githubusercontent.com/47987232/134069675-d0c1d6be-db86-4662-a617-4f213a299c8c.png)
 
 
 # CONTRIBUIDORES
-   <a href="https://github.com/smlsilva" target="_blank">![samuel (1)](https://user-images.githubusercontent.com/47987232/114802351-f14bab00-9d73-11eb-8349-3bec875b6a88.jpeg)</a>
+   ![samuel (1)](https://user-images.githubusercontent.com/47987232/114802351-f14bab00-9d73-11eb-8349-3bec875b6a88.jpeg)<a href="https://github.com/smlsilva" target="_blank"><p>Samuel Silva</p></a>
