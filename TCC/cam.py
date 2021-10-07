@@ -2,16 +2,16 @@ import cv2 as cv
 import config
 import os
 
-cam = cv.VideoCapture(0) #Iniciando a WebCam
-classifier = cv.CascadeClassifier(f"{cv.haarcascades}{os.sep}haarcascade_frontalface_alt2.xml") #Modelo para reconhecer faces
+cam = cv.VideoCapture(0)
+classifier = cv.CascadeClassifier(f"{cv.haarcascades}{os.sep}haarcascade_frontalface_alt2.xml")
 
-dataframe = config.load_dataframe() #Carregando dataframe com as imagens para treinamento
+dataframe = config.load_dataframe()
+X_train, X_test, y_train, y_test = config.train_test(dataframe)
 
-X_train, X_test, y_train, y_test = config.train_test(dataframe) #Dividindo conjuntos de treino e teste
-pca = config.pca_model(X_train) #Modelo PCA para extração de features da imagem
+pca = config.pca_model(X_train) # Modelo PCA para extração de features da imagem
 
-X_train = pca.transform(X_train) #Conjunto de treino com features extraídas
-X_test = pca.transform(X_test) #Conjunto de teste com features extraídas
+X_train = pca.transform(X_train) # Conjunto de treino com features extraídas
+X_test = pca.transform(X_test) # Conjunto de teste com features extraídas
 
 knn = config.knn(X_train, y_train) #Treinando modelo classificatório KNN
 
@@ -20,9 +20,8 @@ label = {
     1: "Com mascara"
 }
 
-#Abrindo a webcam...
 while True:
-    status, frame = cam.read() #Lendo a imagem e extraindo frame
+    status, frame = cam.read()
 
     if not status:
         break
