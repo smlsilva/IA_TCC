@@ -22,8 +22,8 @@
 
 # 🔖 STATUS DO PROJETO
 
-   - [ ] Finalizado
-   - [X] Em Andamento
+   - [X] Finalizado
+   - [ ] Em Andamento
    - [ ] Interrompido
 
 
@@ -67,3 +67,8 @@
 
 # CONTRIBUIDORES
    ![samuel (1)](https://user-images.githubusercontent.com/47987232/114802351-f14bab00-9d73-11eb-8349-3bec875b6a88.jpeg)<a href="https://github.com/smlsilva" target="_blank"><p>Samuel Silva</p></a>
+   
+   ![otavio](https://user-images.githubusercontent.com/47987232/143229264-7de67f01-35cc-44e0-b9c1-fd9b0a135e3d.jpeg)<p>Otávio Crispim</p>
+
+   
+![luan](https://user-images.githubusercontent.com/47987232/143229404-a325794a-2258-49c1-9ee7-38a95018248a.jpeg)<p>Luan Nardini</p>
